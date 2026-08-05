@@ -1499,33 +1499,48 @@ id,headline,gold_label,date,source,type
 4252,Heat waves have been decreasing since the 1930s in the U.S. and globally.,misinfo,,,climate
 4417,"Brazilian regulatory agency Anvisa labeled ivermectin a controled substance, because it's cheap and helps save lives.",misinfo,2020-07-27,Facebook posts,covid
 19847,Canada's healthcare sector 3rd highest per capita greenhouse gas emitter among global counterparts: report,real,2019-11-14,ipolitics,climate
-4143,Democrats are trying to block Trump from exiting Paris Agreement by pushing new climate bill,real,,,
-276,Koreans who were on the cruise ship Diamond Princess cannot be brought back.,misinfo,,,
-19411,"Prepare For Real (Natural) Climate Change, Because We Can't Stop It",misinfo,,,
-12866,MSNBC's Tur Touts Climate as 'Positive Consequence of the Pandemic',misinfo,,,
-16462,"The head of the Tunisian Ennahda Movement, Rached Ghannouchi, was infected with COVID-19.",misinfo,,,
-22435,Young Spaniards developed a rapid test to detect the new coronavirus,misinfo,,,
-1373,"""Iraq produces COVID-19 laboratory supplies to test cases more rapidly""",real,,,
-1743,Steam therapy can kill the new coronavirus.,misinfo,,,
-17300,"Explainer: Indonesia's Jobs Law Endangers Environment, Say Activists, Investors",real,,,
-16050,"A picture claiming that the UN would have accused the Italian government of ""violating human rights"" during the COVID-19 lockdown.",misinfo,,,
-8965,Doctors: Take Effects of COVID-19 to Heart,real,,,
-12869,The BCG (Bacillus Camette  Guerin) vaccine for tuberculosis can protect people from COVID-19.,misinfo,,,
-13089,Parisians fight climate change with a surprising weapon,real,,,
-12430,Extinction Rebellion protests: youth activists break down in tears at Heathrow as demonstrations over climate change continue in London,real,,,
-21859,"5G and any mobile connection are incredibly harmful to people. Moreover, the coronavirus pandemic is related to 5G.",misinfo,,,
-11439,Environmentalists should applaud Biden,misinfo,,,
-18197,Watch: John Stossel confronts warmists at 'Climate Feedback' over Facebook censorship,misinfo,,,
-4836,Climate Change The Hoax That Costs Us 4 Billion A Day,misinfo,,,
-18701,Morocco returns to ground zero by applying a general quarantine and closing all cities.,misinfo,,,
-9765,Youth climate strike: UK students inspired by Greta Thunberg hold climate change protest in London today,real,,,
-8178,Travel permit for muslim people for Ramadan during the state of alarm in Spain.,misinfo,,,
-3518,Drinking water every 15 minutes helps to avoid the contagion of cononavirus.,misinfo,,,
-18191,"Harris, AOC partnering on climate-justice bill",real,,,
-7749,The Greta Thunberg effect: are climate crisis documentaries feeling it?,real,,,
-13915,"""Vaccines are dangerous,"" says the German homeopathic organisation rzte fr Aufklrung, which campaigns against the coronary measures and against vaccines. They give four cases on her website that would show that vaccines can be dangerous. Three of the four cases are misleading, one is uncertain.",misinfo,,,
-12096,warning gop cancer lobby will murder you and strip your family bare veterans today military foreign affairs policy journal for clandestine services.,misinfo,,,
-5024,Water vapor is the most powerful greenhouse gas.,real,,,
-21355,Listen to Wisdom of Youth on Climate Change,real,,,
-4901,Greta asks media to focus on other young climate activists,real,,,
-20423,Extinction rebellion Thousands of climate change protesters block London bridges on day of civil ac,real,,,
+276,Koreans who were on the cruise ship Diamond Princess cannot be brought back.,misinfo,2020-02-11,Many social media platforms,covid
+1373,"""Iraq produces COVID-19 laboratory supplies to test cases more rapidly""",real,,who.int,covid
+3518,Drinking water every 15 minutes helps to avoid the contagion of cononavirus.,misinfo,2020-03-19,Former Peruvian Minister of Education,covid
+4143,Democrats are trying to block Trump from exiting Paris Agreement by pushing new climate bill,real,2019-05-02,usatoday,climate
+4836,Climate Change The Hoax That Costs Us 4 Billion A Day,misinfo,2018-10-05,humansarefree,climate
+4901,Greta asks media to focus on other young climate activists,real,2019-12-09,charlotteobserver,climate
+5024,Water vapor is the most powerful greenhouse gas.,real,,,climate
+7749,The Greta Thunberg effect: are climate crisis documentaries feeling it?,real,2019-11-18,theguardianuk,climate
+8178,Travel permit for muslim people for Ramadan during the state of alarm in Spain.,misinfo,2020-04-12,WhatsApp,covid
+8965,Doctors: Take Effects of COVID-19 to Heart,real,,webmd.com,covid
+9765,Youth climate strike: UK students inspired by Greta Thunberg hold climate change protest in London today,real,2019-04-12,eveningstandard,climate
+11439,Environmentalists should applaud Biden,misinfo,2020-08-20,cnn,climate
+12096,warning gop cancer lobby will murder you and strip your family bare veterans today military foreign affairs policy journal for clandestine services.,misinfo,2017-02-20,veteranstoday.com,cancer
+12430,Extinction Rebellion protests: youth activists break down in tears at Heathrow as demonstrations over climate change continue in London,real,2019-04-19,eveningstandard,climate
+12866,MSNBC's Tur Touts Climate as 'Positive Consequence of the Pandemic',misinfo,2020-05-21,newsbusters,climate
+12869,The BCG (Bacillus Camette  Guerin) vaccine for tuberculosis can protect people from COVID-19.,misinfo,2020-05-05,"Blogs, News",covid
+13089,Parisians fight climate change with a surprising weapon,real,2019-09-27,bbc,climate
+16050,"A picture claiming that the UN would have accused the Italian government of ""violating human rights"" during the COVID-19 lockdown.",misinfo,2020-05-18,"Facebook, blog",covid
+16462,"The head of the Tunisian Ennahda Movement, Rached Ghannouchi, was infected with COVID-19.",misinfo,2020-08-15,facebook and Twitter,covid
+17300,"Explainer: Indonesia's Jobs Law Endangers Environment, Say Activists, Investors",real,2020-10-09,usnews,climate
+18197,Watch: John Stossel confronts warmists at 'Climate Feedback' over Facebook censorship,misinfo,2020-10-06,climatedepot,climate
+18701,Morocco returns to ground zero by applying a general quarantine and closing all cities.,misinfo,2020-08-06,facebook and Twitter,covid
+19411,"Prepare For Real (Natural) Climate Change, Because We Can't Stop It",misinfo,2020-09-04,climatedepot,climate
+20423,Extinction rebellion Thousands of climate change protesters block London bridges on day of civil ac,real,2018-11-17,theindependent,climate
+21355,Listen to Wisdom of Youth on Climate Change,real,2019-09-18,realclearpolitics,climate
+21859,"5G and any mobile connection are incredibly harmful to people. Moreover, the coronavirus pandemic is related to 5G.",misinfo,2020-10-07,Facebook,covid
+22435,Young Spaniards developed a rapid test to detect the new coronavirus,misinfo,2020-10-02,Social media,covid
+116,"What Joe Walsh thinks about immigration, climate change and Trump",real,2019-08-27,pbs,climate
+680,"Dr. Anthony Fauci said: ""as soon as a COVID-19 vaccine is manufactured, it must be delivered to healthcare professionals for immediate human injection. Proper studies can be done later.""",misinfo,2020-05-20,Facebook posts,covid
+3238,"In Protesting Climate Change, Jane Fonda Brings Hollywood to Washington",real,2019-12-28,thenewyorktimes,climate
+4485,"Eat herbs, curmin, like people in India, and you will be safe from COVID-19.",misinfo,2020-02-27,Line,covid
+5308,Climate change activists plan for protests across US,real,2019-09-23,aljazeera,climate
+6912,A policeman in Poland argues that pandemic is a fiction.,misinfo,2020-09-06,Facebook,covid
+7143,Anti-Trump AG Sued For Using Bloomberg-Funded Attorneys To Promote A Climate Crusade,misinfo,2019-06-09,truepundit,climate
+7919,A woman's brain was punctured when she got a nasal test for coronavirus,misinfo,2020-10-23,Facebook Post,covid
+8964,"Climate Change Is ""Not a Threat""?",misinfo,2019-09-19,globalresearch,climate
+9129,"COVID-19 Among American Indian and Alaska Native Persons - 23 States, January 31-July 3, 2020",real,,cdc.gov,covid
+9287,COVID-19 and bronchitis: Risks and precautions,real,,,covid
+11195,Tom Steyer: 'We fight climate change by treating every issue like a climate issueThat's how we save our planet',misinfo,2020-10-19,climatedepot,climate
+12609,"The 2019 novel coronavirus (nCoV) is a ""type of rabies"" that can be contracted by eating bats.",misinfo,2020-01-26,Facebook,covid
+13555,"Recently, Petrol companies reduced Rs. 6.40 on petrol and on Diesel Rs. 6.80.",misinfo,2020-03-20,Many social media platforms,covid
+15657,Coronavirus in poultry products has been confirmed by the Bihar Health Department.,misinfo,2020-04-17,WhatsApp,covid
+16333,Ontario environment minister calls out dogmatic McKenna,real,2018-07-18,ipolitics,climate
+16503,'They Need To Wake Up In 2020'  Frustration As UN Climate Summit Grinds To A Close,real,2019-12-15,thehuffingtonpostuk,climate
+16523,Climate change: British Airways reviews 'fuel-tankering' over climate concerns,real,2019-11-11,bbc,climate
